@@ -1,0 +1,2 @@
+add to the file try/test.txt this content:
+Please do lot of practice if you want to be good at DSA.
